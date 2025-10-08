@@ -80,7 +80,7 @@ ul {
 }
 
 .btn,
-.menu-center,
+.menu-center,img,
 a {
   -webkit-tap-highlight-color: transparent;
   outline: none;
@@ -852,3 +852,4 @@ when&where page
     margin-top: -30px;
   }
 }
+
